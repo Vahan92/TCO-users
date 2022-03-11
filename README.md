@@ -1,1 +1,4 @@
-# TCO-users
+# Users
+
+npm i
+npm start
